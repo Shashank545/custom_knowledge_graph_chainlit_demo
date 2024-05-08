@@ -9,7 +9,7 @@ import gradio as gr
 
 
 # from google.colab import userdata
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 
 # Prompt template for knowledge triple extraction

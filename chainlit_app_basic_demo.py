@@ -13,7 +13,7 @@ from langchain.memory import ConversationBufferWindowMemory
 # Load environment variables
 load_dotenv('.env')
 
-YOUR_API_KEY="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"
+YOUR_API_KEY=" "
 
 prompt_template = ChatPromptTemplate.from_messages(
     [
